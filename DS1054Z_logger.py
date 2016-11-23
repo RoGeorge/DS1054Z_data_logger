@@ -41,7 +41,7 @@ def print_help():
     print "    The reading time interval (in seconds) can be specified"
     print "    in the command line. A timestamp is added for each new reading."
     print
-    print "    At each new reading, the Vavg for each channel"
+    print "    At each new reading, the Vavg values for each channel"
     print "    are listed in CSV format, then saved in a log file. The log file"
     print '    is saved as "MODEL_YYYY-MM-DD_HH.MM.SS.csv"'
     print

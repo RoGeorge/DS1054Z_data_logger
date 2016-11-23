@@ -1,0 +1,4 @@
+# Add empty directory 'csvLog', so we exclude all files (CSV files supposed to be produced by the developed Python script itself)
+# Git can not add empty directory, so we need to add at least one file, in this case we will add the csvLog/.gitignore itself
+*
+!.gitignore
